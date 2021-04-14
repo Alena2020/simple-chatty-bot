@@ -1,5 +1,4 @@
-# simple-chatty-bot - yчебный проект JetBrains Academy
-### Выполнила проект: Алёна
+# simple-chatty-bot - JetBrains Academy project
 
-## Технологии:
+## Technologies:
 #### - Java 
